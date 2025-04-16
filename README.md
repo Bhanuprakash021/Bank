@@ -28,9 +28,21 @@
 5. PIN GENERATE  
 6. TRANSFER MONEY
 
-## IMAGES
+## 🖼️ Images
 
-CREATE ACCOUNT
+### CREATE ACCOUNT
+
+![Create Account](https://github.com/user-attachments/assets/2394817a-781b-4cb6-8005-cb08bc529335)
+
+### DEPOSIT MONEY
+
+![Deposit](URL_TO_IMAGE)
+
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/2394817a-781b-4cb6-8005-cb08bc529335)
 
 ![Image](https://github.com/user-attachments/assets/e39cb80f-bb1f-4457-b145-130b08cf3552)
