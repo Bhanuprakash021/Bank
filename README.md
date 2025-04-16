@@ -23,8 +23,5 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 # IMAGES
 
-
-
-
-#CREATE ACCOUNT
+CREATE ACCOUNT
 ![Image](https://github.com/user-attachments/assets/2394817a-781b-4cb6-8005-cb08bc529335)
