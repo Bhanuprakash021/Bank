@@ -19,16 +19,14 @@
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-
 ## 🚀 Features
 
-1.CREATE ACCOUNT
-2.WITHDRAW MONEY
-3.DEPOSIT MONEY
-4.CHECK BALANCE
-5.PIN GENERATE
-6.TRANSFER MONEY
-
+1. CREATE ACCOUNT  
+2. WITHDRAW MONEY  
+3. DEPOSIT MONEY  
+4. CHECK BALANCE  
+5. PIN GENERATE  
+6. TRANSFER MONEY
 
 ## IMAGES
 
