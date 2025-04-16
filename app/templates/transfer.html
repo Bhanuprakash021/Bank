@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+<form action="" method="post">
+    {% csrf_token %}
+    
+    <label for="f_acc">FROM ACCOUNT</label>
+    <input type="number" name="f_acc" id="f_acc" placeholder="Enter your account number" title="Enter your account number">
+    <br><br>
+    
+    <label for="t_acc">TO ACCOUNT</label>
+    <input type="number" name="t_acc" id="t_acc" placeholder="Enter recipient's account number" title="Enter recipient's account number">
+    <br><br>
+    
+    <label for="pin">PIN</label>
+    <input type="number" name="pin" id="pin" placeholder="Enter your PIN" title="Enter your PIN">
+    <br><br>
+    
+    <label for="amt">AMOUNT</label>
+    <input type="number" name="amt" id="amt" placeholder="Enter the amount to transfer" title="Enter the amount to transfer">
+    <br><br>
+    
+    <button type="submit">SUBMIT</button>
+</form>
+
+{{msg}}
+{% endblock content %}

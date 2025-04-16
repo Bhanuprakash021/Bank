@@ -1,0 +1,34 @@
+
+/* Container for all cards */
+.container {
+    text-align: center;
+}
+
+/* Individual card styling */
+.card {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Image styling */
+.card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.card img:hover {
+    transform: scale(1.1);
+}
+
+/* Text styling */
+.card p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+}
