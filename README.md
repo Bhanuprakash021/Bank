@@ -7,9 +7,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-
-
 ## Server Side ⚡
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -21,7 +18,19 @@
 ## Social 🌍
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-# IMAGES
+
+
+## 🚀 Features
+
+1.CREATE ACCOUNT
+2.WITHDRAW MONEY
+3.DEPOSIT MONEY
+4.CHECK BALANCE
+5.PIN GENERATE
+6.TRANSFER MONEY
+
+
+## IMAGES
 
 CREATE ACCOUNT
 ![Image](https://github.com/user-attachments/assets/2394817a-781b-4cb6-8005-cb08bc529335)
