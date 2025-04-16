@@ -45,7 +45,7 @@
 ![Check Balance](https://github.com/user-attachments/assets/c0d3d20f-d3e0-48ba-bf3e-6ebb840d9beb)
 
 ### PIN GENERATE  
-![PIN Generate](URL_TO_IMAGE)
+![PIN Generate](https://github.com/user-attachments/assets/d7891a9c-15c8-4712-a617-1b689199996b)
 
 ### TRANSFER MONEY  
 ![Transfer Money](URL_TO_IMAGE)
