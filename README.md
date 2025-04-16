@@ -36,12 +36,13 @@
 
 ### DEPOSIT MONEY
 
-![Deposit]()
+![Deposit](https://github.com/user-attachments/assets/9a50cd8d-673f-471f-a234-8d76cf37cb7b)
 
 ### WITHDRAW MONEY  
 ![WITHDRAW](https://github.com/user-attachments/assets/39741126-cf1e-4e83-908e-0cf8823a530d)
+
 ### CHECK BALANCE  
-![Check Balance](URL_TO_IMAGE)
+![Check Balance]()
 
 ### PIN GENERATE  
 ![PIN Generate](URL_TO_IMAGE)
