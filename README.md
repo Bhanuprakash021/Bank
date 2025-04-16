@@ -36,11 +36,10 @@
 
 ### DEPOSIT MONEY
 
-![Deposit](https://github.com/user-attachments/assets/39741126-cf1e-4e83-908e-0cf8823a530d)
+![Deposit]()
 
 ### WITHDRAW MONEY  
-![Withdraw Money](URL_TO_IMAGE)
-
+![WITHDRAW](https://github.com/user-attachments/assets/39741126-cf1e-4e83-908e-0cf8823a530d)
 ### CHECK BALANCE  
 ![Check Balance](URL_TO_IMAGE)
 
