@@ -20,6 +20,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Social 🌍
 
-![Gmail]
-(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+# IMAGES
 ![Image](https://github.com/user-attachments/assets/2394817a-781b-4cb6-8005-cb08bc529335)
