@@ -42,7 +42,7 @@
 ![WITHDRAW](https://github.com/user-attachments/assets/39741126-cf1e-4e83-908e-0cf8823a530d)
 
 ### CHECK BALANCE  
-![Check Balance]()
+![Check Balance](https://github.com/user-attachments/assets/c0d3d20f-d3e0-48ba-bf3e-6ebb840d9beb)
 
 ### PIN GENERATE  
 ![PIN Generate](URL_TO_IMAGE)
